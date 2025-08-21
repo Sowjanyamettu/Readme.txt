@@ -97,5 +97,7 @@ Feel free to reach out if you’d like to collaborate, discuss technology, or ex
 📧 Email: mettulakshmisowjanya5@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/lakshmi-sowjanya-mettu-943532249
+
 💻 GitHub: https://github.com/Sowjanyamettu
+
 ⭐️ Fun Fact: I enjoy solving production challenges with automation and experimenting with chaos engineering tools like Gremlin & Chaos Monkey to build more resilient systems!
